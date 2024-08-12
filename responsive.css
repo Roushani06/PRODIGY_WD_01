@@ -8,6 +8,7 @@
       flex-direction: column;
       transition: all 0.7s ease-out;
     }
+
     .login {
       margin-bottom: 15px;
     }
@@ -16,6 +17,7 @@
       margin-top: 10px;
       box-sizing: border-box;
     }
+    
     .lines {
       display: block;
     }
